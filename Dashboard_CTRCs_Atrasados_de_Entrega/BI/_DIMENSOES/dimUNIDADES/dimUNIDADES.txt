@@ -1,0 +1,12 @@
+TRANSPORTADORA TESTE LTDA                                                                                                                                   PAG:   1
+ssw0016                                                              RELACAO DE UNIDADES - Empresa 1 - Matriz Contabil MTZ                            17/05/20 14:21
+---+-------------------------------+---------+-------------------------------+-------------------+--------------------+------------------------------+--------------
+SIG UNIDADE                          TIPO      CNPJ                            INSCRICAO ESTADUAL  INSCRICAO MUNICIPAL  E-MAIL                        ORIGEM UNIDADE
+COD ENDERECO                         CEP       CIDADE                                    TELEFONE  REGIME TRIBUTACAO                                  ULTIMA ALTER.
+---+-------------------------------+---------+-------------------------------+-------------------+--------------------+------------------------------+--------------
+FRE 1                               FILIAL    25.069.447/0001-48              140972592118                                                            N
+234 1,1-1                           02168-020 SAO PAULO                   -SP       (11)33360877  NORMAL                                              16/01/20 11:16
+
+ITV A F L DE OLIVEIRA ITAPEVA-ME    AGENCIA   77.266.668/4177-95              380049750115                                                            N
+159 PROF JOAO SOARES DE ALMEID,170  40000-000 SALVADOR                    -BA       (00)          NORMAL                                              03/07/18 10:18
+
